@@ -1,0 +1,6 @@
+{
+  "name": "SynapseAI — Personalized AI Learning Tutor",
+  "description": "Adaptive AI tutor that personalizes explanations, Socratic inquiry, interactive simulations, and knowledge roadmaps to your cognitive learning style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
